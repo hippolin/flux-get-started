@@ -25,6 +25,11 @@ spec:
         cpu: 10m
     service:
       type: ClusterIP
+    externalDatabase:
+      password: "ghost"
+    mariadb:
+      db:
+        password: "ghost"
     mariadb:
       master:
         persistence:
