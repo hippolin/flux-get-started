@@ -1,0 +1,1 @@
+{"jobID":"b7ba4bfc-0514-09e6-3608-af49b7a55b59","spec":{"type":"policy","cause":{"Message":"","User":"Hippo \u003chippo@hippo.idv.tw\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"Hippo \u003chippo@hippo.idv.tw\u003e"},"remove":{}}}},"result":null}
