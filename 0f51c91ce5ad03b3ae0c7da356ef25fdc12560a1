@@ -1,0 +1,1 @@
+{"jobID":"3ac5ce90-af75-6e97-4e01-c65b5fb8365b","spec":{"type":"policy","cause":{"Message":"","User":"Hippo \u003chippo@hippo.idv.tw\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
