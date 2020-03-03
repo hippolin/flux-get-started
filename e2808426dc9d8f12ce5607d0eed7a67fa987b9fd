@@ -1,0 +1,1 @@
+{"jobID":"11dc0474-e8f5-cb0f-02b9-e905392fbd57","spec":{"type":"policy","cause":{"Message":"","User":"Hippo \u003chippo@hippo.idv.tw\u003e"},"spec":{"demo:helmrelease/redis":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
